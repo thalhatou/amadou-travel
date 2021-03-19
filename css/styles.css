@@ -301,7 +301,7 @@ body {
 }
 .btn {
   height: 62px;
-  background: #ff7f00;
+  background: #AB2849;
   border-radius: 31px;
   display: block;
   float: left;
@@ -418,7 +418,7 @@ body {
 }
 .homepage_slider .slide__controls .btn {
   height: 62px;
-  background: #ff7f00;
+  background: #AB2849;
   border-radius: 31px;
   display: block;
   float: left;
@@ -887,10 +887,10 @@ body {
   font-size: 14px;
 }
 .header__bottom .menu .scroll_wrap > ul > li a:hover {
-  color: #ff7f00;
+  color: #AB2849;
 }
 .header__bottom .menu .scroll_wrap > ul > li a.hover {
-  color: #ff7f00;
+  color: #AB2849;
 }
 .header__bottom .search_link {
   display: block;
@@ -919,7 +919,7 @@ body {
   color: #3E4559;
 }
 .section_subtitle {
-  color: #ff7f00;
+  color: #AB2849;
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -962,7 +962,7 @@ body {
 }
 .most_popular__section .top_part_right .btn {
   height: 62px;
-  background: #ff7f00;
+  background: #AB2849;
   border-radius: 31px;
   display: block;
   float: left;
@@ -1372,7 +1372,7 @@ body {
 .search_tour .search_tour_form .fields__block .submit {
   width: 62px;
   height: 62px;
-  background: #ff7f00;
+  background: #AB2849;
   border-radius: 50%;
   position: absolute;
   right: 0;
@@ -1424,7 +1424,7 @@ body {
 }
 .ui-state-active,
 .ui-widget-content .ui-state-active {
-  background: #ff7f00;
+  background: #AB2849;
   color: #fff;
 }
 .ui-datepicker th {
@@ -1703,7 +1703,7 @@ body {
 .popular_destination__slider .slide_item .slide_footer .hours {
   max-width: 50%;
   font-size: 15px;
-  color: #ff7f00;
+  color: #AB2849;
 }
 .popular_destination__slider .slide_item .slide_footer .tours_link {
   max-width: 50%;
@@ -2024,15 +2024,15 @@ body {
 }
 .footer_top_menu ul li a:hover {
   cursor: pointer;
-  color: #ff7f00;
+  color: #AB2849;
 }
 .footer_top_menu ul li a.active {
   position: relative;
-  color: #ff7f00;
+  color: #AB2849;
 }
 .footer_top_menu ul li a.active:before {
   height: 2px;
-  background: #ff7f00;
+  background: #AB2849;
   position: absolute;
   bottom: -1px;
   left: 0;
@@ -2143,7 +2143,7 @@ body {
   font-weight: 400;
 }
 .footer_center_menu ul li a:hover {
-  color: #ff7f00;
+  color: #AB2849;
 }
 .footer_center_right {
   max-width: 308px;
@@ -2237,7 +2237,7 @@ body {
   padding: 32px 0;
 }
 .footer_bottom a {
-  color: #ff7f00;
+  color: #AB2849;
 }
 .mobile_btn {
   display: none;
@@ -2611,7 +2611,7 @@ body {
     float: left;
     font-size: 22px;
     font-weight: 500;
-    color: #ff7f00;
+    color: #AB2849;
     text-align: center;
   }
   .header__bottom .menu .scroll .scroll_wrap {
@@ -2631,7 +2631,7 @@ body {
   }
   .header__bottom .menu .scroll .bottom .email {
     font-size: 20px;
-    color: #ff7f00;
+    color: #AB2849;
   }
   .header__bottom .menu .scroll .bottom .socials {
     margin-top: 42px;
@@ -2701,12 +2701,12 @@ body {
   }
   .header__bottom .menu .scroll_wrap > ul > li > a.hover,
   .header__bottom .menu .scroll_wrap > ul > li .dropdown-menu > ul > li.dropdown_li > a.hover {
-    color: #ff7f00;
+    color: #AB2849;
     transition: all .2s linear;
   }
   .header__bottom .menu .scroll_wrap > ul > li > a.hover span:before,
   .header__bottom .menu .scroll_wrap > ul > li .dropdown-menu > ul > li.dropdown_li > a.hover span:before {
-    border-top-color: #ff7f00;
+    border-top-color: #AB2849;
     transform: rotate(180deg);
     transition: all .2s linear;
   }
@@ -2896,7 +2896,7 @@ body {
   .most_popular__section .slider_item:hover .slider_item__content .title,
   .popular_destination__slider .slide_item:hover .slide_item_content .slide_title,
   .blog_item:hover .blog_item_title {
-    color: #ff7f00;
+    color: #AB2849;
   }
   .homepage_slider .slide__controls .arrow:hover {
     border-color: #fff;
@@ -3979,11 +3979,11 @@ body {
   color: #fff;
 }
 .page_content .main .pagination ul li a:hover {
-  color: #ff7f00;
+  color: #AB2849;
   background: #fff;
 }
 .page_content .main .pagination ul li.current a {
-  background: #ff7f00;
+  background: #AB2849;
   color: #fff;
 }
 .page_content .main .pagination ul li.prev a {
@@ -4248,8 +4248,8 @@ body {
 .page_content .main .items .item_right .item-btn {
   width: 160px;
   height: 48px;
-  background: #ff7f00;
-  border: 2px solid #ff7f00;
+  background: #AB2849;
+  border: 2px solid #AB2849;
   border-radius: 24px;
   font-size: 15px;
   font-weight: 500;
@@ -4363,7 +4363,7 @@ body {
 .page_content .sidebar .latest_tours ._item .right .cost b,
 .page_content .sidebar .latest_tours ._item .right .cost strong {
   font-weight: 900;
-  color: #ff7f00;
+  color: #AB2849;
 }
 .page_content .sidebar .latest_tours ._item .right .cost .old_cost {
   font-size: 14px;
@@ -5250,7 +5250,7 @@ body {
   margin-bottom: 20px;
 }
 .single-page .content-body .faq .faq_accordeon .faq_item.active .faq_tab {
-  color: #ff7f00;
+  color: #AB2849;
 }
 .single-page .content-body .faq .faq_accordeon .faq_item .faq_tab {
   background: #E8E8E8;
@@ -5897,7 +5897,7 @@ body {
 .single-page .single-sidebar .latest_tours ._item .right .cost b,
 .single-page .single-sidebar .latest_tours ._item .right .cost strong {
   font-weight: 900;
-  color: #ff7f00;
+  color: #AB2849;
 }
 .single-page .single-sidebar .latest_tours ._item .right .cost .old_cost {
   font-size: 14px;
@@ -5921,7 +5921,7 @@ body {
   top: 0;
 }
 .single-page .single-sidebar .question-block {
-  background: #ff7f00;
+  background: #AB2849;
   border-radius: 14px;
   padding: 34px 30px;
   margin-bottom: 20px;
@@ -6849,7 +6849,7 @@ body {
     border-radius: 50%;
     position: fixed;
     z-index: 5;
-    background: #ff7f00;
+    background: #AB2849;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -7367,7 +7367,7 @@ body {
   line-height: 1.7;
 }
 .blog-page .blog-item:hover ._title {
-  color: #ff7f00;
+  color: #AB2849;
   transition: all .2s linear;
 }
 .blog-page .blog-list.two-colums .blog-item {
@@ -7435,7 +7435,7 @@ body {
   width: 100%;
 }
 .categories--list ul li a:hover ._title {
-  color: #ff7f00;
+  color: #AB2849;
 }
 .categories--list ul li a:hover .count {
   color: #3E4559;
@@ -7609,7 +7609,7 @@ body {
   object-fit: cover;
 }
 .blog-single .quote_top .text {
-  background: #ff7f00;
+  background: #AB2849;
   padding: 30px 37px;
   color: #fff;
   border-radius: 20px 20px 20px 0;
@@ -7732,7 +7732,7 @@ body {
   display: list-item;
 }
 .page--content a:not([class]) {
-  color: #ff7f00;
+  color: #AB2849;
 }
 .page--content a:not([class]):hover {
   text-decoration: underline;
@@ -8042,7 +8042,7 @@ body {
 }
 .statistic .stat-item .val {
   font-size: 122px;
-  color: #ff7f00;
+  color: #AB2849;
   width: auto;
   font-weight: 300;
 }
@@ -8122,7 +8122,7 @@ body {
 }
 .contacts-page .contacts-columns .column a {
   font-size: 20px;
-  color: #FF7F00;
+  color: #AB2849;
   display: block;
   float: left;
   position: absolute;
